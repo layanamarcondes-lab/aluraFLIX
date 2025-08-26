@@ -1,1 +1,11 @@
+<himl lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="styles.css"<
+    <title>aluraflix</title
+ </head>
 
+ <body>
+    <header>ALURAFLIX</header>
+
+    <section>
+      <div class
